@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarthaStewert
-- 👀 I’m interested in programming,computer science for artificial intellegence leaning.
+- 👀 I’m interested in programming,computer science and Ai.
 - 🌱 I’m currently learning Python and how to design intellegent systems.
 - 💞️ I’m looking to collaborate on any projects that can help further my knolage.
 - 📫 How to reach me, here on git !
